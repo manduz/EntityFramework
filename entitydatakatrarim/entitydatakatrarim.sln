@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entitydatakatrarim", "entitydatakatrarim.csproj", "{E19393CD-C9F0-4852-B213-3FD491FFD61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19393CD-C9F0-4852-B213-3FD491FFD61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19393CD-C9F0-4852-B213-3FD491FFD61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19393CD-C9F0-4852-B213-3FD491FFD61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19393CD-C9F0-4852-B213-3FD491FFD61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC03E929-297E-439B-BBDB-7CC714C682C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|c:\\emekwebrepo\\c#\\entityframework\\entitydatakatrarim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|c:\\emekwebrepo\\c#\\entityframework\\entitydatakatrarim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|c:\\emekwebrepo\\c#\\entityframework\\entitydatakatrarim\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E19393CD-C9F0-4852-B213-3FD491FFD61F}|entitydatakatrarim.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:55:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-13T15:01:01.004Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\EntityFramework\\entitydatakatrarim\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:54:52.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

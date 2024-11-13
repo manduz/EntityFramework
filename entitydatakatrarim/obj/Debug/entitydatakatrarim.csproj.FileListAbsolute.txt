@@ -1,0 +1,15 @@
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\entitydatakatrarim.exe.config
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\entitydatakatrarim.exe
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\entitydatakatrarim.pdb
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\EntityFramework.dll
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\EntityFramework.SqlServer.dll
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\EntityFramework.xml
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\bin\Debug\EntityFramework.SqlServer.xml
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.Form1.resources
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.Properties.Resources.resources
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entityda.CB7986F6.Up2Date
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.exe
+C:\EmekWebRepo\C#\EntityFramework\entitydatakatrarim\obj\Debug\entitydatakatrarim.pdb
